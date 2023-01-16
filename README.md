@@ -1,7 +1,7 @@
 # Fair-Champions-League-R16-Draw-using-ILPs
 This works attempts to find the fairest UEFA Champions League Round of 16 draw using Integer Linear Programming. 
 
-##Steps
+## Steps
 - Read the "Problem Formulation.pdf" file that discusses the intuition behind the method and the mathematical formulation for the optimization problem.
 - Run the "UCL Round of 16.ipynb" Jupyter notebook. This notebook uses the data found in the workbook "UCL Round of 16 Teams.xlsx" to run the optimization problem. 
 
